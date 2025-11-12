@@ -1,0 +1,3 @@
+[submodule "SD-card-controller"]
+	path = SD-card-controller
+	url = git@github.com:marqs85/SD-card-controller.git
