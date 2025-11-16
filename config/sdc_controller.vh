@@ -10,6 +10,9 @@
 `define FIFO_MEM_ADR_SIZE 7
 `define MEM_OFFSET 4
 
+// For monostable_domain_cross
+`define ALTERA_CDC_SYNC
+
 // For generic_fifo_dc_gray and sd_data_serial_host
 `define ALTERA_DCFIFO
 //`define WRRST_SYNC_CIRCUITRY
